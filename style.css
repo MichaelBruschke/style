@@ -18,6 +18,17 @@
 
 h1 {
   font-family: roboto;
+  background-color: #003399;
+  color: white;
+}
+
+h2 {
+  font-family: roboto;
+  color: black;
+}
+
+h3 {
+  font-family: roboto;
   background-color: black;
   color: white;
 }
@@ -25,5 +36,17 @@ h1 {
 div {
   background-color: blue;
   color: white;
+}
+
+.button {
+  font-family: roboto;
+  background-color: #0099FF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 </style>
